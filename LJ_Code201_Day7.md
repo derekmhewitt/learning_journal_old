@@ -1,5 +1,5 @@
-#Code 201, Day 6 Learning Journal
-###Monday June 20th, 2016
+#Code 201, Day 7 Learning Journal
+###Tuesday June 21st, 2016
 
 Lecture this morning was good, I took a bunch of notes and even more from Sam's afternoon 'how to put your tr/td into the DOM' lecture.  
 
