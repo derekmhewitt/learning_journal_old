@@ -1,4 +1,4 @@
-demoapp==0.0
+learning_journal_basic==0.0
 
 appnope==0.1.0
 argh==0.26.2
