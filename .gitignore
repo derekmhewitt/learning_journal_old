@@ -149,3 +149,6 @@ ENV/
 pyvenv.cfg
 .venv
 pip-selfcheck.json
+
+#My Additions
+env_ljold/
